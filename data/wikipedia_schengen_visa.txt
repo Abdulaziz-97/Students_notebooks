@@ -1,0 +1,404 @@
+SOURCE: https://en.wikipedia.org/wiki/Schengen_Area
+LICENSE: Creative Commons Attribution-ShareAlike 4.0 (Wikipedia)
+FETCHED_BY: scripts/fetch_real_data.py
+========================================================================
+
+The Schengen Area (English:  SHENG-ən, Luxembourgish: [ˈʃæŋən] ) is a system of open borders that encompass 29 European countries that have officially abolished border controls at their common borders. As an element within the wider area of freedom, security and justice (AFSJ) policy of the European Union (EU), it mostly functions as a single jurisdiction under a common visa policy for international travel purposes. The area is named after the 1985 Schengen Agreement and the 1990 Schengen Convention, both signed in Schengen, Luxembourg.
+Of the 27 EU member states, only two, Cyprus and Ireland, are not members of the Schengen Area. Cyprus is committed by treaty to join the system and aims to do so in 2026, although its participation has been complicated by the occupation of Northern Cyprus by Turkey since 1974. Ireland maintains an opt-out in order to maintain the Common Travel Area with non-EU member United Kingdom and operates its own visa policy.
+In addition to the member states of the European Union, all member states of the European Free Trade Association, namely Iceland, Liechtenstein, Norway, and Switzerland, have signed association agreements with the EU to be part of the Schengen Area. The microstate of Monaco is de facto part of the Schengen Area as border controls are administered as part of France. Three other microstates – Andorra, San Marino, and Vatican City – have open borders with the Schengen Area due to their small size and difficulty of maintaining active border controls.
+The Schengen Area has a population of more than 450 million people and an area of about 4,595,000 km2 (1,774,000 sq mi). About 1.7 million people commute to work across an internal European border each day, and in some regions these international commuters constitute up to a third of the workforce. In 2015, there were 1.3 billion crossings of Schengen borders in total. 57 million crossings were due to the transport of goods by road, with a value of €2.8 trillion. The decrease in the cost of trade due to Schengen varies from 0.42% to 1.59% depending on geography, trade partners, and other factors. Countries outside of the Schengen Area also benefit. States in the Schengen Area have strengthened border controls with non-Schengen countries.
+The Schengen Area is the world's most visited travel zone, accounting for the vast majority of Europe's 793 million international tourist arrivals in 2025. Schengen member states processed 11.7 million visa applications in 2024, issuing approximately 9.7 million visas to travelers from around the world.
+
+
+== History ==
+
+
+=== European borders prior to Schengen ===
+
+Before World War I, most countries of the world, including those in Europe, had lax border policies, facilitating such educational trips as the Grand Tour amongst the wealthy.
+Visas became commonplace during the interwar period, as did border controls. After World War II, however, customs unions arose between various European countries. The Nordic countries allowed free movement and residence between them in 1954, and the countries of Benelux opened their mutual borders in 1960. This reflected a greater trend towards European integration; the European Communities (EC), the predecessor of the EU, were established in the 1950s for economic cooperation, though they did not deal with border control issues.
+
+
+=== Schengen Agreement ===
+
+The first move towards the abolition of border controls between EC member states took place on 14 June 1985 with the signing of the Schengen Agreement by five EEC members – the Benelux countries as well as France and West Germany – of the then ten EEC member states. These five countries entered into the Schengen Agreement separately from the European Communities, because consensus could not be reached among all EEC member states.
+The Agreement was supplemented in 1990 by the Schengen Convention, which proposed the abolition of internal border controls and a common visa policy. The Agreements and the rules adopted under them continued to be separate from the EC structures, and led to the creation of the Schengen Area on 26 March 1995.
+As more EU member states signed the Schengen Agreement, consensus was reached on absorbing it into the procedures of the EU. The Agreement and its related conventions were incorporated into the mainstream of European Union law by the Amsterdam Treaty in 1997, which came into effect in 1999. A consequence of the Agreement being part of European law is that any amendment or regulation is made within its processes, in which the non-EU members are not participants.
+The UK, the Crown Dependencies, and the Republic of Ireland have operated a Common Travel Area (CTA) since 1923 (with passport-free travel and freedom of movement with each other), but the UK would not abolish border controls with any other countries and therefore opted out of the Agreement. While not signing the Schengen Treaty, Ireland has always looked more favourably on joining, but has not done so in order to maintain the CTA and its open border with Northern Ireland. However, as the Commission noted on the official website, Ireland requested participation in some Schengen areas, such as the Schengen Information System, due to "the benefits of Schengen cooperation".   
+
+
+==== Common Schengen Visa Policy ====
+
+The common visa policy allows nationals of certain countries to enter the Schengen Area via air, land or sea without a visa for stays of up to 90 days within a 180-day period. Nationals of certain other countries are required to have a visa either upon arrival or in transit.
+
+
+== Current members ==
+
+The Schengen Area consists of 29 countries, including four which are not members of the European Union – Iceland, Liechtenstein, Norway, and Switzerland. Iceland and Norway are part of the Nordic Passport Union and are officially classified as states associated with the Schengen activities of the European Union. Switzerland was allowed to participate in the same manner in 2008, and Liechtenstein in 2011.
+Romania and Bulgaria are the newest members of the Schengen Area, with border controls lifted for air and sea travel on 31 March 2024 and land border controls lifted effective 1 January 2025, more than 17 years after they acceded to the European Union. In 2011, the European Commission first concluded that the two countries had fulfilled all technical accession criteria, and their participation was approved by the European Parliament. However this was rejected by the Council of Ministers, with some countries (such as Denmark and Finland) citing concerns about shortcomings in anti-corruption measures and in the fight against organised crime. The Netherlands conditioned approval for joining the Schengen Area on positive reports under the Mechanism for Cooperation and Verification. Austria was the last country to end their veto, after a series of negotiations to address concerns that the countries were a major transit route for illegal immigration to the country.
+De facto, the Schengen Area also includes four European micro-states –  Andorra, Monaco, San Marino, and Vatican City – that maintain open or semi-open borders with other Schengen member countries.
+Ireland negotiated opt-outs from Schengen and continues to operate border controls with other EU member states, while at the same time being part of the open-border Common Travel Area with the United Kingdom and the Crown Dependencies (Bailiwick of Guernsey, Isle of Man and Jersey).
+
+
+=== Summary table ===
+
+
+=== Notes ===
+
+
+== Potential enlargement ==
+
+The procedure to join the Schengen Area is that the European Commission evaluates certain criteria. These criteria include border control legislation, infrastructure and organisation, personal data protection, visas, deportations, police cooperation and more. After a positive evaluation, the Schengen members of the Council of the European Union decides unanimously together with the European Parliament to accept the new member.
+
+
+=== Cyprus ===
+Cyprus as EU member state is committed by its Treaty of Accession to join the Schengen Area eventually. However, before fully implementing the Schengen rules, the state must have its preparedness assessed in four areas: air borders, visas, police cooperation, and personal data protection. This evaluation process involves a questionnaire and visits by EU experts to selected institutions and workplaces in the country under assessment.
+Although Cyprus, which joined the EU on 1 May 2004, is legally bound to join the Schengen Area, implementation has been delayed because of the Cyprus dispute. According to former Cypriot Minister of Foreign Affairs Giorgos Lillikas, "strict and full control based on Schengen will create a huge tribulation on a daily basis for the Turkish Cypriots" of Northern Cyprus, and it is unclear if this control is possible before the resolution of the dispute. The British Sovereign Base Areas of Akrotiri and Dhekelia, a British Overseas Territory which is outside the EU, also needs "other handling and mechanisms". Akrotiri and Dhekelia has no border control to Cyprus, but has its own border control at its air base.
+In November 2019, Cyprus's Foreign Affairs Minister Nikos Christodoulides revealed that Cyprus formally began the process of joining the Schengen Area in September. In July 2023, Cyprus joined the Schengen Information System (SIS), which allows for cooperation on crime, immigration and other security-related matters within the Schengen Area. In October 2023, the commission was to "verify that the necessary conditions for the application of the Schengen acquis in the field of the Schengen Information System have been met". During the May 2025 Europe Day celebrations, President Nikos Christodoulides reaffirmed Cyprus’s strategic ambition to join the Schengen Area by 2026.
+Following a high-level meeting in February 2026, Christodoulides and his French counterpart Emmanuel Macron reaffirmed their commitment to a 'fast-track' accession, with France offering technical expertise to help Cyprus meet final requirements for external-border management. Diplomatic backing, combined with a positive evaluation by European Commissioner Magnus Brunner in January 2026, has shifted the 2026 target from a local expectation to a shared European objective, with a decisive Council vote anticipated by December 2026.
+
+
+== Territories of Schengen states outside the Area ==
+There are territories of Schengen member states that are exempted from the Schengen Agreement. The only areas of Schengen member states located in Europe but excluded are the Faroe Islands and Svalbard.
+
+
+=== Danish territories ===
+The Danish territories of the Faroe Islands and Greenland are neither part of the European Union nor part of the Schengen Area, and visas to Denmark are not automatically valid in these territories. However, both of these territories lack border controls on arrivals from the Schengen Area, and the air or sea carriers are responsible for carrying out document checks before boarding, as is common for travel inside the Schengen Area. Citizens of EU/EFTA countries can travel to the Faroes using a passport or a national ID card and to Greenland using a passport, but citizens of Denmark, Finland, Iceland, Norway or Sweden can use any acceptable identification such as driving licences or bank ID cards; although this is advised against since aircraft might be diverted to Scotland in bad weather.
+
+
+=== Dutch territories ===
+Only the Netherlands' European territory is part of the Schengen Area. Six Dutch territories in the Caribbean are outside the Area. Three of these territories – Bonaire, Sint Eustatius, and Saba (collectively known as the BES islands) – are special municipalities within the Netherlands proper. The other three – Aruba, Curaçao and Sint Maarten – are autonomous countries within the Kingdom of the Netherlands. All islands retain their status as overseas countries and territories and are thus not part of the European Union. The six territories have a separate visa system from the European part of the Netherlands and people travelling between these islands and the Schengen Area are subjected to full border checks, with a passport being required even for EU/Schengen citizens, including Dutch (national ID cards are not accepted).
+
+
+=== French territories ===
+The French overseas departments of French Guiana, Guadeloupe, Martinique, Mayotte, and Réunion, and the overseas collectivity of Saint Martin are part of the European Union but do not form part of the Schengen Area; so one cannot travel there with a Schengen Visa. The freedom of movement provisions of the EU apply, but each territory operates its own visa regime for non-European Economic Area (EEA), non-Swiss nationals. While a visa valid for one of these territories will be valid for all, visa exemption lists differ. A Schengen visa, even one issued by France, is not valid for these territories. A visa for Sint Maarten (which is valid for travelling to the Dutch side of the island of Saint Martin) is also valid for the French side. France also has several territories which are neither part of the EU nor the Schengen Area. These are: French Polynesia, French Southern and Antarctic Lands, New Caledonia, Saint Barthélemy, Saint-Pierre and Miquelon, and Wallis and Futuna.
+
+
+=== Norwegian territories ===
+Svalbard is part of Norway and has a special status under international law. It is not part of the Schengen Area. There is no visa regime for Svalbard for entry, residence, or work, but it is difficult to visit Svalbard without travelling through the Schengen Area, although there are charter flights from Russia. Since 2011, the Norwegian government has imposed systematic border checks on individuals wishing to enter and leave Svalbard, requiring a passport or national identity card. A double or multiple-entry visa is required for those who need a visa to enter Norway. As a result, the border between Svalbard and the rest of Norway is largely treated like any other external Schengen border. A Schengen visa must be multiple-entry to allow return to Norway. There is no welfare or asylum system for immigrants on Svalbard, and people who are incapable of supporting themselves may be sent away.
+
+
+== European microstates and Gibraltar ==
+
+Four European microstates — Andorra, Monaco, San Marino, and the Vatican City — are not officially part of the Schengen Area, but are considered de facto within the Schengen Area, as they have open or semi-open borders and do not conduct systematic border controls with the Schengen countries that surround them. Some national laws have the text "countries against which border control is not performed based on the Schengen Agreement and the 562/2006 EU regulation", which then includes the microstates and other non-EU areas with open borders.
+In 2015, Andorra, Monaco and San Marino began negotiating an Association Agreement with the EU. Monaco left the negotiations in 2023, while an agreement for Andorra and San Marino was expected to be concluded in 2024. Andorra's ambassador to Spain, Jaume Gaytán, stated in 2015 that he hoped that the agreement would include provisions to make the states associate members of the Schengen Agreement. However, the final text only concerned free movement of people and not border control issues. However, on 30 May 2024, the Council of the European Union authorised the opening of negotiations for agreements between the European Union and Andorra and San Marino, respectively, in order to create a legal basis for the absence of border controls between these countries and the Schengen area.
+
+
+=== Andorra ===
+
+Access to the Principality of Andorra is restricted to road or helicopter transport through the neighbouring Schengen Area members, France and Spain. While the German Ministry of Foreign Affairs reported in June 2024 that Andorra maintains de facto open borders, the country is not officially part of the Schengen Area nor the European Union.
+The country does not maintain its own visa requirements, EU citizens may enter with a national identity card or passport, while all other nationalities require a valid passport or equivalent. Travelers requiring a visa to enter the Schengen Area must possess a multiple-entry visa to visit Andorra, as entering the principality constitutes an exit from the Schengen zone and requires a new entry to return to France or Spain.
+Although systematic border controls are absent, checkpoints exist primarily for customs enforcement rather than immigration. These controls are more frequent for travellers departing Andorra due to the country's significantly lower tax rates, including a standard VAT of only 4.5%.
+Andorra remains exempt from the European Union's biometric Entry/Exit System (EES) to ensure that road traffic between the principality and its neighbours remains fluid.
+
+
+=== Liechtenstein ===
+
+The Principality of Liechtenstein has been a member of the Schengen Area since 2011. As a landlocked state without its own international airport, the country relies on its neighbours for primary transit. The heliport at Balzers does not maintain border checks, as all arriving and departing flights are restricted to destinations within the Schengen Area.
+
+
+=== Monaco ===
+
+The Principality of Monaco and France maintain an entirely open land border, which is facilitated by the 1963 Convention on Good Neighbourly Relations. Although Monaco is not an official member of the European Union or a formal signatory to the Schengen Agreement, its territory is administered as an integral part of the Schengen Area due to its longstanding customs union with France. The movement of persons and goods between the two nations occurs without permanent immigration checkpoints or physical barriers.
+Despite the absence of land controls, both French and Monégasque authorities carry out coordinated security and immigration checks at Monaco’s seaport and the Fontvieille heliport. The maritime border is particularly scrutinized by the Maritime and Airport Police Division to ensure that vessels entering the Principality from outside the Schengen zone comply with European security standards.
+Additionally, while the country lacks its own visa policy, foreigners wishing to reside in Monaco for longer than three months must apply for a Monégasque residence permit, a process that requires close administrative cooperation with the French government.
+
+
+=== San Marino ===
+The Republic of San Marino maintains an entirely open border with Italy, functioning as a de facto member of the Schengen Area despite not being a formal signatory of the agreement. Although it is not a member state of the European Union, there are no physical barriers or permanent immigration controls at the frontier, allowing for the free flow of pedestrians and vehicles between the two nations.
+Due to its landlocked position and the absence of a commercial airport or seaport, San Marino depends exclusively on Italian infrastructure for international travel. As a result of this geographic integration and the open border policy, visitors crossing from Italy encounter no passport control and do not receive entry stamps.
+Regulatory requirements apply for long-term visits, foreigners must hold a stay permit or residence in order to stay in San Marino for periods exceeding 30 days.
+
+
+=== Vatican City ===
+
+The Vatican City maintains an open border with Italy, though it remains a sovereign entity outside of the European Union and the Schengen Area. Because no formal customs union exists between the Holy See and Italy, all goods and vehicles crossing the border remain legally subject to customs oversight and potential inspections. However, the implementation of traditional border infrastructure is considered impractical due to the state's total land area of only 0.49 km² and its massive influx of visitors, which can reach up to 25,000 daily during peak periods. As an enclave entirely surrounded by the city of Rome, the Vatican relies on a porous perimeter, most notably defined by a travertine line across St. Peter's Square, to accommodate millions of annual visitors. 
+The Vatican City has no airport or seaport, making it entirely dependent on Italian infrastructure for the transit of goods and people. While it possesses a small heliport for official use and a short railway connected to the Italian network, all international freight must arrive via Italian ports or airports before being transported by road into the enclave.
+Vehicular entry is restricted to specific checkpoints, primarily the Sant'Anna Gate, which serves as the main commercial and logistical entrance, though other gates such as the Arco delle Campane and Porta del Perugino are also used for authorized traffic. At these points, the Pontifical Swiss Guard and the Corps of Gendarmerie verify authorizations. Due to the lack of formal immigration checkpoints at its borders, the Vatican does not issue stamps to passports for visitors entering the territory.
+The Vatican City contains no hotels or commercial lodging for tourists or the general public. All visitors, pilgrims, and tourists stay in the surrounding city of Rome, as the only residents of the Vatican are clergy, Swiss Guards, and specific employees authorized to live within the walls.
+
+
+=== Gibraltar ===
+
+As a result of Brexit, Gibraltar ceased to be part of the European Union on 31 January 2020, although for most purposes it was treated as part of it during the transition phase until 31 December 2020. Like the United Kingdom, it had not been part of the Schengen Area but, unlike the United Kingdom, Gibraltar had also been outside of the EU customs union. Owing to a declaration lodged by the United Kingdom with the EEC in 1982, in view of the entry into force of the British Nationality Act 1981, Gibraltarians had been counted as British nationals for the purposes of Community law, and as such they had enjoyed full free movement within the European Economic Area and Switzerland. During the Brexit transition period until 31 December 2020, Gibraltar was still for most purposes treated as an EU territory.
+An agreement reached on 11 June 2025 established a framework for Gibraltar's post-Brexit relationship with the European Union, notably removing physical border checks at the La Línea crossing to facilitate free movement for all travellers and streamline the 15,000 daily crossings made by workers and visitors. To facilitate this, Gibraltar's "external" borders, the airport and seaport, became the primary control points. At these locations, travellers from the United Kingdom and third countries must pass through two separate checkpoints: one operated by the Gibraltar Borders and Coastguard Agency and a second Schengen check conducted by Spanish officials. For the first time in history, Spanish police have a permanent, legal role inside Gibraltar’s airport and port.
+Under the terms of the treaty, residents of Gibraltar are exempt from the Entry/Exit System (EES) and the 90-day Schengen stay limit. However, British citizens who are not residents of Gibraltar are treated as third-country nationals, consequently, they must undergo biometric registration under the EES and have their time in Gibraltar count toward their 90-day Schengen visa-free allowance.
+The legal text was finalized on 12 December 2025, and by 1 April 2026, the  COREPER agreed on the texts for provisional application. While expected to enter into force on 15 July 2026, the agreement still awaits formal ratification by the Parliament of the United Kingdom. While the agreement implements Schengen rules, Gibraltar will not officially become part of the Schengen Area.
+
+
+== Opt-outs ==
+
+When the Schengen Agreement was incorporated into the Treaties of the European Union, two current members and one former member negotiated opt-outs from some or all of its provisions.
+
+
+=== Denmark ===
+Denmark maintains a specific opt-out from the broader AFSJ policy area, but has adopted the Schengen acquis on an intergovernmental basis. The autonomous territories of Greenland and Faroe Islands are excluded from the application of these provisions. As a result of this opt-out, Denmark does not have voting rights for introductions and revocations of measures applied to the Schengen Area.
+
+
+=== Ireland ===
+
+When EU states were negotiating the Treaty of Amsterdam (that incorporated the Agreement into EU law), Ireland (and the United Kingdom, which was then a member of the EU) were the only member states that had not already signed the Agreement. The UK chose not to join Schengen and, as Ireland wished to maintain its Common Travel Area with the United Kingdom and associated islands (an arrangement that would be incompatible with Schengen membership while the UK remained out), Ireland also declined to join. As a result, both negotiated an opt-out from the part of the treaty which was to incorporate the Schengen acquis (rules) into EU Law when it came into effect on 1 May 1999. Under the relevant protocol, Ireland may opt-in to participate in aspects of the Schengen acquis provided their request is approved by the Schengen states.
+Despite Brexit, Ireland continues to operate the Common Travel Area and is unlikely to join the Schengen Area for the foreseeable future, because it wants to keep open its land border with the UK.
+Ireland initially submitted a request to participate in the Schengen acquis in 2002, which was approved by the Council of the European Union, that decision took nearly eighteen years to be put into effect. In February 2010 the Irish Minister for Justice, in response to a parliamentary question, said that: "The measures which will enable Ireland to meet its Schengen requirements are currently being progressed". Ireland joined the law enforcement aspect of SIS II on 1 January 2021 with plans to have "full operational capacity" two months later. Henceforth, Ireland is connected to the SIS II, and systematically checks all identity documents on SIS II at airports and designated ports of entry (including flights from the UK).
+
+
+=== United Kingdom ===
+
+As noted above, the UK declined to participate in the Schengen agreement and secured an opt-out from it. In 1999, the UK formally requested participation in certain provisions of the Schengen acquis – Title III relating to Police Security and Judicial Cooperation, and this request was approved by the Council of the European Union on 29 May 2000. The United Kingdom's formal participation in the previously approved areas of cooperation was put into effect by a 2004 Council decision that came into effect on 1 January 2005. Although the United Kingdom was not part of the Schengen passport-free area, it still used the Schengen Information System, a governmental database used by European countries to store and disseminate information on individuals and property. This allowed the UK to exchange information with countries that are a part of the Schengen agreement, often for the sake of liaising over law enforcement. 
+On 31 January 2020, the United Kingdom withdrew from the European Union and the Schengen accords ceased to apply to it. The UK declared its intent to withdraw from these arrangements at the end of its transition period, and did so on 31 December 2020.
+
+
+== Economics ==
+Total trade between any two countries in the Schengen Area increases by approximately 0.1% per year. The same amount of increase in trade is gained again for every 1% annual increase in immigration between the countries. On average, at each border the removal of controls is equivalent to the removal of a 0.7% tariff, and the cost savings on a trade route increase with the number of internal borders crossed. Countries outside of the Schengen Area also benefit.
+
+
+=== Movement of people ===
+About 1.7 million people commute to work across a European border each day, and in some regions these people constitute up to a third of the workforce. For example, 2.1% of the workers in Hungary work in another country, primarily Austria and Slovakia. Each year, there are 1.3 billion crossings of Schengen borders in total. 57 million crossings are due to transport of goods by road, with a value of €2.8 trillion each year. The trade in goods is affected more strongly than trade in services, and the decrease in the cost of trade varies from 0.42% to 1.59% depending on geography, trade partners, and other factors.
+
+
+=== Transit of goods ===
+The Single Administrative Document (SAD) is a customs declaration form used for goods entering or exiting the European Union. Traders and agents can use the SAD to assist with declaring import, export, transit and community status declarations in manual processing situations.
+The TIR Convention procedure is used for transit operations that begin, end, or travel in a third, non-EU country that is a signatory to the convention.
+A Transit Accompanying Document (TAD) can be produced at the point of departure or by an authorised consignor. It includes a barcode and the movement reference number that matches the transit declaration. This is useful if goods are diverted or delayed.
+EORI numbers are an official link to a specific registered address of a business concerned with arranging the export, import or movement of goods across the EU. It may also link to official records (Union Customs Code) describing the nature of the goods and the identity of vehicles or hauliers to be used.
+
+
+== Internal borders ==
+
+Before the implementation of the Schengen Agreement, most borders in Europe were patrolled and a vast network of border posts existed around the continent, to check the identity and entitlement of people wishing to travel from one country to another.
+Since the implementation of the Schengen rules, border posts have been closed (and often entirely removed) between participating countries.
+The Schengen Borders Code requires participating states to remove all obstacles to free traffic flow at internal borders. Thus, road, rail and air passengers no longer have their identity checked by border guards when travelling between Schengen countries, although security controls by carriers are still permissible. Per EU guidelines all EU citizens are advised to bring a passport or national identity card, as one may be required.
+
+
+=== Internal checks ===
+Although EU and EFTA nationals travelling within the Schengen Area are not required to show passports, national identity cards or other identity documents at an internal border, the laws of most countries still require them to carry national identity documents and to produce them to an authorised person on request. Different rules apply to other nationals. It is the obligation of everyone travelling within the area to be able to show a fully valid form of personal identification accepted by other Schengen states, typically one issued by the state.
+According to the Schengen rules, hotels and other types of commercial accommodation must register all foreign citizens, including citizens of other Schengen states, by requiring the completion of a registration form by their own hand. This does not apply to accompanying spouses and minor children or members of travel groups. In addition, a valid identification document has to be produced to the hotel manager or staff. The Schengen rules do not require any other procedures; thus, the Schengen states are free to regulate further details on the content of the registration forms, and identity documents which are to be produced, and may also require the persons exempted from registration by Schengen laws to be registered. Enforcement of these rules varies by country.
+The Schengen regulation on crossing internal borders describes the checks for foreigners done by the police at suitable places inside each country.
+
+
+=== Internal controls ===
+
+The European Union constitutes a customs union and a Value Added Tax area. However, not all Schengen states or all of the territory of Schengen states are part of the customs union or VAT area. Some countries therefore legally conduct customs controls targeted at illegal goods, such as drugs.
+Security checks can legally be carried out at ports and airports. Also police checks can be conducted if they:
+
+do not have border control as an objective;
+are based on general police information and experience regarding possible threats to public security and aim, in particular, to combat cross-border crime;
+are devised and executed in a manner clearly distinct from systematic checks on persons at the external borders;
+are carried out on the basis of spot-checks.
+
+
+=== Air travel ===
+
+For flights within the Schengen Area (either between Schengen member states or within the same Schengen member state), law enforcement agencies, airport authorities and air carriers are permitted only to carry out security checks on passengers and may not carry out border checks. Such security checks can be conducted through the verification of the passenger's passport or national identity card: such a practice must be used only to verify the passenger's identity (for commercial or transport security reasons) and not his or her immigration status. However, before Romania and Bulgaria joined the Schengen Area, it was reported that undocumented refugees seeking to continue from Greece to other Schengen countries by air were not able to do so without fake identification documents. For this reason, law enforcement agencies, airport authorities and air carriers cannot require air passengers flying within the Schengen Area who are third-country nationals to prove the legality of their stay by showing a valid visa or residence permit. In addition, according to European Commission guidelines, identity checks on air passengers flying within the Schengen Area should take place only either at check-in, or upon entry to the secured zone of the airport, or at the boarding gate: passengers should not be required to undergo a verification of their identity on more than one occasion before their flight within the Schengen Area.  The requirements as to which identity document to possess varies by country and airline. Normally a passport or EU national identity card is needed.
+Travellers boarding flights between Schengen countries, but originating from a third country outside the area, are required to go through Schengen entry border checks upon arrival in the Schengen Area. This is because the route originates outside the Schengen Area and the authorities at the final destination would have no way of differentiating between arriving passengers who boarded at the origin and those who joined in the middle. Additionally, travellers are required to process through Schengen exit border checks upon departure.
+
+
+=== Temporary border controls ===
+
+A Schengen member state is permitted to reinstate border controls with another Schengen member state for a short period where there is a serious threat to that state's "public policy or internal security" or when the "control of an external border is no longer ensured due to exceptional circumstances". When such risks arise out of foreseeable events, the state in question must notify the European Commission in advance and consult with other Schengen states.
+The introduction of temporary controls at internal borders is a prerogative of the member states. Although the European Commission may issue an opinion about the necessity and proportionality of introducing temporary controls at internal borders, it cannot veto or override such a decision if it is taken by a member state.
+In April 2022 the European Court of Justice clarified that temporary internal border controls cannot exceed a duration of six months for one and the same threat. Only in case of a new serious threat "the member state may apply such a measure afresh, even immediately after the six-month period has ended." The ruling reinforced existing criticism of the quasi-permanent controls in several member states since 2015 as being an unlawful violation of the Schengen Code.
+Temporary closures or the reinstatement of border controls within the Schengen Area have occurred during several significant events, most notably during the European migrant crisis in 2015, and the COVID-19 pandemic in 2020.
+
+
+==== Internal border controls currently in place ====
+The table below lists temporary internal border controls in place as of April 2026, according to the information that the member states have provided to the European Commission.
+
+
+== External borders ==
+Participating countries are required to apply strict checks on travellers entering and exiting the Schengen Area. These checks are co-ordinated by the European Union's Frontex agency, and subject to common rules. The details of border controls, surveillance and the conditions under which permission to enter into the Schengen Area may be granted are exhaustively detailed in the Schengen Borders Code.
+
+
+=== Border checks ===
+
+All persons crossing external borders—inbound or outbound—are subject to a check by a border guard. The only exception is for regular cross-border commuters (both those with the right of free movement and third-country nationals) who are well known to the border guards: once an initial check has shown that there is no alert on record relating to them in the Schengen Information System or national databases, they can only be subject to occasional "random" checks, rather than systematic checks every time they cross the border.
+Previously, EEA and Swiss citizens, as well as their family members enjoying the right of free movement, were subject only to a "minimum check" when crossing external borders. This meant that their travel document was subject only to a "rapid" and "straightforward" visual inspection and an optional check against databases for lost/stolen travel documents. Consultation of the Schengen Information System and other national databases to ensure that the traveller did not represent a security, public policy or health threat was only permitted on a strictly "non-systematic" basis where such a threat was "genuine", "present" and "sufficiently serious". In contrast, other travellers were subject to a "thorough check".
+However, after the November 2015 terrorist attacks in Paris, at a meeting of the Council of the European Union on 20 November 2015, interior ministers from the Member States decided to "implement immediately the necessary systematic and coordinated checks at external borders, including on individuals enjoying the right of free movement". Amendments were made to the Schengen Border Code to introduce systematic checks of the travel documents of EEA and Swiss citizens, as well as their family members enjoying the right of free movement, against relevant databases when crossing external borders. The new regime came into force on 7 April 2017.
+Where carrying out systematic checks against databases would have a disproportionate impact on the flow of traffic at an external border, such checks may be relaxed if, on the basis of a risk assessment, it is determined that it would not lead to a security risk.  
+In "exceptional" and "unforeseen" circumstances where waiting times become excessive, external border checks can be relaxed on a temporary basis. 
+Border guards carry out the following procedures when checking travellers who cross external borders:
+
+As shown by the table above, because many procedures are optional, border guards have discretion in deciding how rigorously they check travellers at external border crossing points. As a result, the length of time taken to perform checks differs between Schengen countries. Under the previous regime (whereby those with the right to freedom of movement were subject only to a "minimum check"), an entry check for an EEA or Swiss citizen took around five seconds on average in Italy, whilst in Norway, on average it took around 1 minute. The disparities in checks on third-country nationals (who are subject to a more thorough check) are even greater. For example, an entry check for an Annex II national takes around 15 seconds on average in Greece, whilst it takes three to five minutes on average in Slovakia. Similarly, an entry check for an Annex I national on average lasts around 30–60 seconds in the Netherlands, whilst in Latvia, it lasts around two to five minutes on average.
+
+When carrying out checks at external borders, border guards are, by law, required to respect the dignity of travellers (particularly in cases involving vulnerable persons) and are forbidden from discriminating against persons based on their sex, racial or ethnic origin, religion or belief, disability, age or sexual orientation.
+
+External border controls are located at roads crossing a border, at airports, at seaports and on board trains. Usually, there is no fence along the land border, but there are exceptions like the Ceuta border fence, and some places at the eastern border. However, surveillance camera systems, some equipped with infrared technology, are located at some more critical spots, for example at the border between Slovakia and Ukraine, where at some points there is a camera every 186 m (203 yd).
+
+All travellers entering and leaving the Schengen Area by general aviation or on a pleasure boat have to make their first point of entry or final point of departure in an airport/aerodrome or a seaport that is designated as an external border crossing point. By way of derogation, travellers on board a pleasure boat are permitted to make their first port of call at a port that is not designated as an external border crossing point if they notify the port authorities and obtain authorisation from the border guards. In practice, however, this is a loophole hard to check, and large-scale drug smuggling using private boats has been uncovered. Along the southern coast of the Schengen countries in the Mediterranean, coast guards make a substantial effort to prevent private boats from entering without permission.
+
+At many external border crossing points, there are special lanes for EEA and Swiss citizens (as well as their family members) and other lanes for all travellers regardless of nationality. At some external border crossing points, there is a third type of lane for travellers who are Annex II nationals (i.e. non-EEA/Swiss citizens who are exempt from the visa requirement). Although Andorran and Sammarinese citizens are not EEA citizens, they are nonetheless able to use the special lanes designated for EEA and Swiss citizens. Since 1 January 2021, British citizens are no longer permitted to use the EEA/Swiss lanes.
+Some external border crossing points can only be used by certain travellers. For example, the border checkpoint in Veľké Slemence, Slovakia (on the border with Ukraine) can only be crossed by pedestrians or cyclists who are EEA, Swiss or Ukrainian citizens. The border checkpoint in Ramoniškiai, Lithuania (on the border with Russia) can only be crossed by residents of Lithuania and Russia; all other travellers (including EEA and Swiss citizens not resident in Lithuania/Russia) cannot use this border checkpoint. Similarly, the border checkpoint of Pededze-Brunishevo, Latvia (on the border with Russia) is only open to Latvian and Russian citizens. The Narva 2 and Saatse border crossing points in Estonia (on the border with Russia) can only be used by residents of Estonia and Russia. The border checkpoint in Połowce-Pieszczatka, Poland (on the border with Belarus) can only be crossed by Polish and Belarusian nationals. In 2016, as a temporary measure for 180 days, the two northernmost border checkpoints of Raja-Jooseppi and Salla on the Finland–Russia border could only be crossed by Finnish, Russian and Belarusian citizens (as well as their family members); all other nationals, including non-Finnish EEA and Swiss citizens, were not permitted to use these border checkpoints. Further, the border crossing points of Haapovaara, Inari, Karttimo, Kurvinen, Leminaho and Parikkala (as well as the railway crossing point of Imatra) are only open to Finnish and Russian citizens.
+Sometimes, external border controls are located on non-Schengen territory. For example, the French Border Police operates border checks at juxtaposed controls on travellers departing the United Kingdom for the Schengen Area before they board their train or ferry at St Pancras International, Ebbsfleet International and Ashford International railway stations, as well as at the Port of Dover and the Eurotunnel Folkestone Terminal.
+
+
+=== Short-stay and transit visas ===
+
+The rules applicable to short-term entry visas into the Schengen Area are set out in EU regulations which contain two lists: a list of the nationalities (or classes of travel document holder) which require a visa for a short-term stay (the Annex I list) and a list which do not (the Annex II list).
+Visitors from visa exempt countries will be required to submit their details for approval via the ETIAS system. Being listed in the visa-free list will sometimes but not always exempt the listed nationality or class from the requirement to obtain a work permit if they wish to take up employment or self-employed activity during their stay; business trips are not normally considered employment in this sense.
+An application for a Schengen visa should be submitted to the embassy or consulate of the country which the traveller intends to visit. If a traveller plans to visit multiple countries in the Schengen Area, the application should be submitted to the embassy or consulate of the main destination. If the main destination cannot be determined, the traveller should apply for the visa at the embassy or consulate of the Schengen member state of first entry. Often, external service providers are contracted by certain diplomatic missions to process, collect and return visa applications.
+The standard application fee for a Schengen visa is €80. There is a reduced visa application fee of €40 for children aged 6 to 12. The visa application fee is waived for children under the age of 6. Where an application is submitted to an external service provider, an additional service fee may have to be paid. The visa application fee (and the additional service fee, if applicable) are not refundable regardless of the outcome of the application.
+
+
+=== Entry conditions for third-country nationals ===
+A Schengen visa or a visa exemption does not entitle the traveller to enter the Schengen Area, but rather allows the traveller to seek entry at the border crossing point. The Schengen Borders Code lists requirements which third-country nationals must meet to be allowed into the Schengen Area. For this purpose, a third-country national is a person who does not enjoy the right of free movement (i.e. a person who is not an EEA citizen or Swiss, nor a family member of such a person).
+The entry requirements for third country nationals who intend to stay in the Schengen Area for not more than 90 days in any 180-day period are as follows:
+
+The traveller is in possession of a valid travel document or documents authorising them to cross the border (a visa is not considered a travel document in this sense); the acceptance of travel documents for this purpose remains within the domain of the member states;
+The travel document must be valid for at least three months after the intended date of departure from the Schengen Area (although in a justified case of emergency, this obligation may be waived) and must have been issued within the previous 10 years;
+The traveller either possesses a valid visa (if required) or a valid residence permit;
+The traveller can justify the purpose and conditions of the intended stay and has sufficient means of subsistence, both for the duration of the intended stay and for the return to his or her country of origin or transit to a third country into which the traveller is certain to be admitted, or is in a position to acquire such means lawfully;
+The Schengen Information System does not contain a refusal of entry alert concerning the traveller, and
+The traveller is not considered to be a threat to public policy, internal security, public health or the international relations of any of the Schengen states.
+However, even if the third-country national does not fulfil the criteria for entry, admission may still be granted:
+
+On humanitarian grounds
+On grounds of national interests
+On grounds of international obligations
+If the person is not in possession of a visa, but fulfils the criteria for being issued a visa at the border
+If the person holds a residence permit or a re-entry visa issued by a Schengen state
+
+
+=== Carrier's responsibility ===
+Schengen rules require that all carriers conveying passengers across the Schengen external border must check, before boarding, that passengers have the correct travel documents and visas required for entry. Carriers that transport third-country nationals without the correct travel documents are imposed with financial penalties and are required to transport those refused entry back to the point of departure. The aim of this measure is to prevent illegal immigration. Further, since immigrants have the right to apply for asylum at border control at ports of entry in the EU, though such applications must be made in person in the country where asylum status is sought, this measure has the effect of preventing prospective asylum seekers from boarding public transportation to the Schengen Area (unless they have already obtained a Schengen visa or are visa-exempt).
+
+
+=== Stays in excess of 90 days ===
+For stays in the Schengen Area as a whole which exceed 90 days, a third-country national will need to hold either a long-stay visa for a period no longer than a year, or a residence permit for longer periods. A long-stay visa is a national visa but is issued in accordance with a uniform format. It entitles the holder to enter the Schengen Area and remain in the issuing state for a period longer than 90 days but no more than one year. If a Schengen state wishes to allow the holder of a long-stay visa to remain there for longer than a year, the state must issue him or her with a residence permit.
+The holder of a long-stay visa or a residence permit is entitled to move freely within other states which compose the Schengen Area for a period of up to three months in any half-year. Third-country nationals who are long-term residents in a Schengen state may also acquire the right to move to and settle in another Schengen state without losing their legal status and social benefits.
+Asylum seekers who request international protection under the Geneva Convention from a Schengen member state are not issued a residence permit, but are instead issued, within three days of the application being lodged, an authorisation to remain on the territory of the member state while the application is pending or being examined. This means that, whilst their application for refugee status is being processed, asylum seekers are only permitted to remain in the Schengen member state where they have claimed asylum and are not entitled to move freely within other states which compose the Schengen Area. Successful applicants who have been granted international protection by a Schengen member state are issued residence permits which are valid for at least three years and renewable, whilst applicants granted subsidiary protection by a Schengen member state are issued residence permits valid for at least one-year and renewable, unless there are compelling reasons relating to national security or public order. Family members of beneficiaries of international or subsidiary protection from a Schengen member state are issued residence permits as well, but their validity can be shorter. Applicants who have been granted temporary protection by a Schengen member state (as well as their reunited family members) are issued residence permits valid for the entire period of temporary protection.
+However, some third-country nationals are permitted to stay in the Schengen Area for more than 90 days without the need to apply for a long-stay visa. For example, France does not require citizens of Andorra, Monaco, San Marino, and the Vatican City to apply for a long-stay visa. In addition, Article 20(2) of the Convention implementing the Schengen Agreement allows for this 'in exceptional circumstances' and for bilateral agreements concluded by individual signatory states with other countries before the Convention entered into force to remain applicable. As a result, for example, New Zealand citizens are permitted to stay for up to 90 days in each of the Schengen countries (Austria, Belgium, Czech Republic, Denmark, Finland, France, Germany, Greece, Iceland, Italy, Luxembourg, the Netherlands, Norway, Poland, Portugal, Spain, Sweden, and Switzerland) which had already concluded bilateral visa exemption agreements with the New Zealand Government prior to the Convention entering into force without the need to apply for long-stay visas, but if travelling to other Schengen countries the 90 days in a 180-day period time limit applies.
+
+
+=== Entry conditions for family members of EEA and Swiss citizens ===
+
+Third-country nationals who are family members of EEA and Swiss citizens exercising their right of free movement and who hold a residence card of a family member of a Union citizen issued by their EEA host country can visit another EEA member state or Switzerland without a visa for a short stay of up to three months in each member state. A 'family member' is defined as the spouse/partner, any of their children below age 21 or dependents (including those of the spouse/partner) and dependent parents (including those of the spouse/partner).
+Holders of a residence card of a family member of a Union citizen issued by a Schengen member state can travel to another Schengen member state without a visa, regardless of whether they are travelling independently, or accompanying or joining their EEA/Swiss citizen family member. However, holders of a residence card of a family member of a Union citizen issued by non-Schengen countries like Cyprus, Ireland, and the UK can travel to the Schengen Area without a visa only if they are accompanying or joining their EEA/Swiss citizen family member. British citizens had until 30 June 2021 to apply for the card.
+If the non-EEA family member is an Annex I national who presents themself at the border without a residence card of a family member of a Union citizen nor an entry visa, but can show their family ties with the EEA/Swiss citizens by other means, then a visa must be issued at the border free of charge and entry permitted.
+However, as of December 2008, the right of entry of family members of EEA/Swiss citizens laid down in Articles 5(2) and 5(4) of Directive 2004/38/EC has been incorrectly transposed into Belgian, Latvian and Swedish law, and not transposed at all by Austria, Denmark, Estonia, Italy, Lithuania, Germany, and Slovenia. Five member states do not follow the Directive to the effect that non-EEA family members may still face difficulties (denial of boarding the vessel by the transport company, denial to enter by border police) when travelling to those states using their residence card issued by another EU member state. A visa or other document(s) may still be required.
+
+
+=== Local border traffic at external borders ===
+
+Schengen states which share an external land border with a non-EU member state are authorised by virtue of the EU Regulation 1931/2006 to conclude or maintain bilateral agreements with neighbouring third countries for the purpose of implementing a local border traffic regime. Such agreements define a border area which may extend to a maximum of 50 kilometres (31 mi) on either side of the border, and provide for the issuance of local border traffic permits to residents of the border area. Permits may be used to cross the EU external border within the border area, are not stamped on crossing the border and must display the holder's name and photograph, as well as a statement that its holder is not authorised to move outside the border area and that any abuse shall be subject to penalties.
+Permits are issued with a validity period of between one and five years and allow for a stay in the border area of up to three months. Permits may only be issued to lawful residents of the border area who have been resident in the border area for a minimum of one year (or longer if specified by the bilateral agreement). Applicants for a permit have to show that they have legitimate reasons to cross frequently an external land border under the local border traffic regime. Schengen states must keep a central register of the permits issued and have to provide immediate access to the relevant data to other Schengen states.
+Holders of local border traffic permits are able to spend up to 3 months every time they enter the border area of the country which has issued the permit (this time limit is far more generous than the "90 days in a 180-day period" normally granted to third-country nationals visiting the Schengen Area).
+Before the conclusion of an agreement with a neighbouring country, the Schengen state must receive approval from the European Commission, which has to confirm that the draft agreement is in conformity with the Regulation. The agreement may only be concluded if the neighbouring state grants at least reciprocal rights to EEA and Swiss nationals resident on the Schengen side of the border area, and agrees to the repatriation of individuals found to be abusing the border agreement.
+As of June 2017, ten local-traffic agreements have come into force.
+
+Hungary–Ukraine from January 2008.
+Slovakia–Ukraine from September 2008.
+Poland–Ukraine in July 2009.
+Romania–Moldova from October 2010.
+Latvia–Belarus from February 2012.
+Norway–Russia from May 2012.
+Poland–Russia (Kaliningrad Area) from July 2012 (suspended since July 2016)
+Latvia–Russia from June 2013.
+Romania–Ukraine from May 2015.
+An agreement between Croatia–Bosnia and Herzegovina is applied on provisional basis, pending ratification.
+On 28 April 2014, Moldova was classified as an 'Annex II' nationality. On 11 June 2017, Ukraine was classified as an 'Annex II' nationality. Therefore, Moldovan and Ukrainian citizens who hold biometric passports no longer require a visa to enter the Schengen Area, thus obviating the need to apply for a local border traffic permit (unless they wish to spend more than 90 days in a 180-day period permitted by the visa exemption, given that local border traffic permit holders are allowed to stay for 3 months in the border area on each entry).
+There are or have been plans for Lithuania–Russia, Poland–Belarus, Bulgaria–Serbia and Bulgaria–North Macedonia local border traffic agreements. The agreement between Poland and Belarus had been due to enter into force by 2012, but was delayed by Belarus, with no implementation date set (as of Oct 2012).
+In late 2009, Norway began issuing one-year multiple-entry visas, without the usual requirement of having family or a business partner in Norway, called Pomor-Visas, to Russians from Murmansk Oblast, and later to those from Arkhangelsk Oblast. Finland is not planning border permits, but has issued over one million regular visas for Russians in 2011, and many of them multiple-entry visas. The EU was planning to allow up to 5-year validity on multiple-entry visas for Russians.
+There is also a similar system for local border traffic permits between Spain and Morocco regarding Ceuta and Melilla. This system is older and was included in the 1991 accession treaty of Spain to the Schengen Area. In this case there are identity checks for anyone travelling to other parts of the Schengen Area (possible by boat and air only). Such checks are not the rule for other local border traffic zones.
+
+
+=== Western Balkan states ===
+
+Citizens of Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia, and Serbia can enter the Schengen Area without a visa. On 30 November 2009, the EU Council of Ministers for Interior and Justice abolished visa requirements for citizens of Montenegro, North Macedonia, and Serbia, while on 8 November 2010 it did the same for Albania and Bosnia and Herzegovina. The former took effect on 19 December 2009, and the latter on 15 December 2010.
+Visa liberalisation negotiations between the EU and the Western Balkans (excluding Kosovo) were launched in the first half of 2008, and ended in 2009 (for Montenegro, North Macedonia, and Serbia) and 2010 (for Albania and Bosnia and Herzegovina). Before visas were fully abolished, the Western Balkan countries (Albania, Bosnia and Herzegovina, Montenegro, North Macedonia, and Serbia) had signed "visa facilitation agreements" with the Schengen states in 2008. The visa facilitation agreements were, at the time, supposed to shorten waiting periods, lower visa fees (including free visas for certain categories of travellers), and reduce paperwork. In practice, however, the new procedures turned out to be longer, more cumbersome, more expensive, and many people complained that it was easier to obtain visas before the facilitation agreements entered into force.
+The European Commission launched a visa liberalisation dialogue with Kosovo on 19 January 2012. In June 2012, the Commission handed over a roadmap on visa liberalisation to the Kosovo authorities, which identified the legislation and institutional measures that Kosovo needed to adopt and implement to advance towards visa liberalisation. On 4 May 2016, the European Commission proposed visa-free travel for the citizens of Kosovo. The European Commission has proposed to the Council of the European Union and the European Parliament to lift the visa requirements for the people of Kosovo by transferring Kosovo to the visa-free list for short-stays in the Schengen Area. The EU approved the visa exemption for nationals of Kosovo, effective from 1 January 2024.
+
+
+=== National security risk ===
+Hungary allows entry to the Schengen Area for persons from countries such as Belarus and Russia with limited security screening, resulting in a national security risk for the Schengen Area.
+
+
+== Police and judicial co-operation ==
+
+To counter the potentially aggravating effects of the abolition of border controls on undocumented immigration and cross-border crime, the Schengen acquis contains compensatory police and judicial measures. Chief among these is the Schengen Information System (SIS), a database operated by all EU and Schengen states and which by January 2010 contained in excess of 30 million entries and by January 2014 contained in excess of 50 million entries, according to a document published in June 2015 by the Council of the European Union. Around 1 million of the entries relate to persons, 72% of which were not allowed to enter and stay in the Schengen Area. Only 7% of persons listed on the SIS database were missing persons.
+The vast majority of data entries on the SIS, around 49 million, concern lost or stolen objects. The European Council reports that in 2013 an average of 43 stolen vehicles a day were detected by authorities using the SIS database.
+A list of EU authorities with access to SIS is published annually in the Official Journal of the European Union. As at 24 June 2015, 235 authorities can use the SIS database. The SIS database is operationally managed by eu-LISA.
+The Schengen Agreement also allows police officers from one participating state to follow suspects across borders both in hot pursuit and to continue observation operations, and for enhanced mutual assistance in criminal matters.
+The Schengen Convention also contained measures intended to streamline extradition between participating countries however these have now been subsumed into the European Arrest Warrant system.
+
+
+== Border management systems ==
+
+
+=== Entry/Exit System ===
+
+On 12 October 2025, the European Union started to implement the Entry/Exit System (EES), an automated IT system designed to register travellers from third countries each time they cross an EU external border. Since 10 April 2026, the system has been fully operational and is in use at all external border crossings of the Schengen Area. This system replaced the traditional passport stamping method as it uses facial recognition and fingerprint scans to record entries and exits. The aim of the system is to improve border security by accurately tracking overstays and combating identity fraud.
+In the event of a technical failure of the EES or a lack of connectivity to the Central System, border guards are mandated to manually stamp the travel document. This serves as a fallback to ensure the date and place of entry/exit are recorded when digital registration is impossible.
+
+
+=== ETIAS ===
+
+The European Travel Information and Authorisation System (ETIAS) is a planned electronic travel authorisation system for visa-exempt visitors from current Annex II countries (except citizens of the European microstates of Andorra, Monaco, San Marino, and Vatican City)  to travel to the Schengen Area and to other EU member states, except Ireland, which remains in the Common Travel Area with the United Kingdom and other British Islands.
+Foreign visitors will be required to complete an online application in advance and pay a processing fee of €20 for travellers between ages 18 and 70 (fee is waived for children). The application is to be done over the internet and need to be made a few days before entering the Schengen Area. The authorisation will be valid for three years. It is imagined as a system similar to the ESTA system of the United States or the ETA system of Canada. The system aims to enhance security by pre-screening travellers.
+ETIAS is scheduled to come into force in the last quarter of 2026, approximately a year after implementation of the EES.
+
+
+=== Single online visa application platform (EU VAP) ===
+The European Commission is planning to introduce a single online visa application platform at the EU level (EU VAP), replacing the separate national platforms. The platform will be built by eu-LISA, based on a system that was successfully piloted in some embassies in 2020–2022. It is scheduled to be introduced by 2028. A transition period for all member states to migrate to the single platform is scheduled to be up to 7 years after the platform starts.
+The proposal was approved by the European Parliament Committee on Civil Liberties, Justice and Home Affairs in February 2023 by a margin of 34–5. A formal regulation was adopted and published in the Official Journal of the European Union on 7 December 2023.
+
+
+=== EU digital travel application ===
+The European Commission is developing an EU digital travel application, a mobile app designed to allow travellers to create and store digital travel credentials before crossing the external borders of the Schengen Area. On 19 November 2025, the Council of the European Union adopted its negotiating position on the regulation, which aims to modernize border checks and facilitate smoother travel. The application will be an optional tool that enables both EU and non-EU citizens to submit their travel data and documents in advance.
+The proposal was approved by the European Parliament Committee on Civil Liberties, Justice and Home Affairs in December 2025 by a margin of 42–13.
+
+
+== Legal basis ==
+
+
+=== Provisions in the treaties of the European Union ===
+The legal basis for Schengen in the treaties of the European Union has been inserted in the Treaty establishing the European Community through Article 2, point 15 of the Treaty of Amsterdam. This inserted a new title named "Visas, asylum, immigration and other policies related to free movement of persons" into the treaty, currently numbered as Title IV, and comprising articles 61 to 69. The Treaty of Lisbon substantially amends the provisions of the articles in the title, renames the title to "Area of freedom, security and justice" and divides it into five chapters, called "General provisions", "Policies on border checks, asylum and immigration", "Judicial cooperation in civil matters", "Judicial cooperation in criminal matters", and "Police cooperation".
+
+
+=== The Schengen Agreement and the Schengen Convention ===
+The Schengen Area originally had its legal basis outside the then European Economic Community, having been established by a sub-set of member states of the Community using two international agreements:
+
+The 1985 Schengen Agreement – Agreement between the Governments of the States of the Benelux Economic Union, the Federal Republic of Germany, and the French Republic on the gradual abolition of checks at their common borders.
+The 1990 Schengen Convention – Convention implementing the Schengen Agreement of 14 June 1985 between the Governments of the States of the Benelux Economic Union, the Federal Republic of Germany, and the French Republic on the gradual abolition of checks at their common borders.
+On being incorporated into the main body of European Union law by the Amsterdam Treaty, the Schengen Agreement and Convention were published in the Official Journal of the European Communities by a decision of the Council of Ministers. As a result, the Agreement and Convention can be amended by regulations.
+
+
+== See also ==
+
+Open Balkan – Economic zone formed by a regional organization in Southeastern Europe
+Central America-4 Border Control Agreement – Boundary treaty in Central America
+Common Travel Area – Open-borders area in the British Isles
+eu-LISA – Agency of the European Union
+2015 European migrant crisis – Period of significant increase in migration
+FADO – European image-archiving system for identity documents
+Mechanism for Cooperation and Verification – EU system for commitment compliance
+Nordic Passport Union – Nordic ease-of-travel agreement
+Prüm Convention – Law enforcement treaty in part of Europe
+Public Register of Travel and Identity Documents Online – Online repository of security features in travel documents
+Trans-Tasman Travel Arrangement – Arrangement between Australia and New Zealand
+Compact of Free Association – US-Micronesia-Marshall Islands-Palau agreements
+Southern Common Market – South American economic agreementPages displaying short descriptions of redirect targets
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+Schengen, Borders & Visas, Visa policy (europa.eu)
+Calculator of travel days remaining under a Schengen short-stay visa (ec.europa.eu) Retrieved 2 March 2014.
+"The Schengen area and cooperation". europa.eu. 3 August 2009. Retrieved 11 September 2011.
+The Schengen Agreement and the Schengen Convention
+Convention implementing the Schengen Agreement of 14 June 1985 between the Governments of the States of the Benelux Economic Union, the Federal Republic of Germany and the French Republic on the gradual abolition of checks at their common borders (OJ L 239, 22 September 2000, p. 19). (Consolidated version).
+Agreement between the Governments of the States of the Benelux Economic Union, the Federal Republic of Germany and the French Republic on the gradual abolition of checks at their common borders (OJ L 239, 22 September 2000, p. 13).
+European Union regulations
+Regulation (EC) No 562/2006 of the European Parliament and of the Council of 15 March 2006 establishing a Community Code on the rules governing the movement of persons across borders (Schengen Borders Code) (OJ L 105, 13 April 2006, p. 1).
+Council Regulation (EC) No 539/2001 of 15 March 2001 listing the third countries whose nationals must be in possession of visas when crossing the external borders and those whose nationals are exempt from that requirement (OJ L 81, 21 March 2001, p. 1).
+Council Regulation (EC) No 693/2003 of 14 April 2003 establishing a specific Facilitated Transit Document (FTD), a Facilitated Rail Transit Document (FRTD) and amending the Common Consular Instructions and the Common Manual (OJ L 99, 17 April 2003, p. 8).
+Council Regulation (EC) No 1683/95 of 29 May 1995 laying down a uniform format for visas (OJ L 164, 14 July 1995, p. 1).
+Regulation (EC) No 810/2009 of the European Parliament and of the Council of 13 July 2009 establishing a Community Code on Visas (Visa Code) (OJ L 243, 15 September 2009, p. 1).
+Regulation (EC) No 1987/2006 of the European Parliament and of the Council of 20 December 2006 on the establishment, operation and use of the second generation Schengen Information System (SIS II) (OJ L 381, 28 December 2006, p. 4).
+Council Decision 2008/615/JHA of 23 June 2008 on the stepping up of cross-border cooperation, particularly in combating terrorism and cross-border crime (OJ L 210, 6 August 2008, p. 1).
+Regulation (EU) 2016/399 of the European Parliament and of the Council of 9 March 2016 on a Union Code on the rules governing the movement of persons across borders (Schengen Borders Code) (EUR-Lex – 32016R0399 – EN – EUR-Lex)

@@ -1,0 +1,79 @@
+SOURCE: https://en.wikipedia.org/wiki/Hand_luggage
+LICENSE: Creative Commons Attribution-ShareAlike 4.0 (Wikipedia)
+FETCHED_BY: scripts/fetch_real_data.py
+========================================================================
+
+The term hand luggage or cabin baggage (normally called carry-on in North America) refers to the type of luggage that passengers are allowed to carry along in the passenger compartment of a vehicle instead of a separate cargo compartment. Passengers are allowed to carry a limited number of smaller bags with them in the vehicle, which typically contain valuables and items needed during the journey. There is normally storage space provided for hand luggage, either under seating, or in overhead lockers. Trains usually have luggage racks above the seats and may also (especially in the case of trains travelling longer distances) have luggage space between the backs of seats facing opposite directions, or in extra luggage racks, for example, at the ends of the carriage (train car in American English) near the doors.
+
+
+== Commercial air travel ==
+Hand baggage allowance is a topic frequently discussed in the context of commercial air travel. On the one hand, passengers may want to have more of their possessions at hand during flight, skip the often time-consuming baggage claim process, and avoid the risk of having their checked baggage lost or damaged. On the other hand, safety concerns, takeoff weight limitations, and financial incentives (e.g. charging for checked bags) cause airlines to impose limits on how much and what passengers can take into the aircraft cabin. A large amount of hand luggage also slows the security screening of passengers, and can slow boarding as it takes longer to find space in cabin storage areas.
+
+
+=== Retrieval during emergency evacuations ===
+Studies have found that passengers often pause to retrieve cabin baggage during an emergency evacuation, despite instructions to the contrary in pre-flight safety briefings. This is not a new phenomenon, as it was observed during the evacuation of a Boeing 737 that caught fire in 1984. At least one passenger re-entered a Boeing 777 that crashed in 2008 to retrieve personal belongings. Remote locking of overhead baggage bins is being considered as a solution to the issue.
+After Aeroflot Flight 1492, which crashed at Sheremetyevo International Airport on 5 May 2019, killing 41 people, videos of the accident showed passengers evacuating with hand luggage. In their final report, the Interstate Aviation Committee described the account of one passenger who saw several other passengers retrieve their hand luggage from the overhead bin. She described how it "prevented other passengers from advancing to the exit" and how it caused "an impassable jam in the aisle to the exit". They report concluded that the retrieval of hand luggage resulted in a prolonging of the evacuation, which led to the passengers being exposed to high temperatures for longer periods of time, and an increase in the severity of the accident.
+
+
+=== Allowances ===
+
+The International Air Transport Association (IATA) sets guidelines for cabin baggage/hand luggage/carry-on luggage size. As of 2022, the IATA recommends a maximum size of 56 cm × 45 cm × 25 cm (22.0 in × 17.7 in × 9.8 in), including protuberances like wheels, handles, and pockets.
+The IATA guidelines are voluntary; the actual size and weight limits of cabin baggage imposed by airlines differ widely. In some cases they are dependent on the aircraft model being used, in other cases it depends on the booking class.
+
+† Dimensions are sometimes listed as "linear", meaning that when added together, height, width, and length are not to exceed a certain total number.
+
+118 cm (46.5 in) - Air New Zealand
+115 cm (45 in) - Hainan Airlines
+Business class, first class passengers and holders of high level mileage club members are often allowed to carry on a second bag of a similar or smaller size and weight.
+On smaller sized aircraft, sometimes the hand baggage can be carried to the aircraft door, where it is collected by baggage handlers for stowing in the cargo area and returned to the passenger right after landing.
+
+
+=== Security restrictions ===
+Following the increase in restrictions imposed on flights from UK airports and to the US after the events of August 2006 transatlantic aircraft plot, hand baggage on such flights was restricted to one cabin bag no bigger than 45 cm × 35 cm × 16 cm (17+3⁄4 in × 13+3⁄4 in × 6+1⁄4 in) effective since 15 August 2006. On 21 September 2006, the British Airports Authority advised that from the following day, the allowable size of the single item of hand baggage on outgoing flights from the UK would be increased to 56 cm × 45 cm × 25 cm (approx. 22 in × 17.75 in × 9.85 in), the IATA guideline size. Most UK airports still have a strict limit of one piece of cabin baggage per passenger, including business class.
+
+
+==== European Union ====
+
+A common regulation for cabin baggage restrictions was introduced on 6 November 2006 in European Union and in Switzerland, Norway and Iceland.
+
+Restrictions on liquids:
+only liquids with max 100 ml (3½ fl. oz.) per piece
+all pieces assembled in a single zippable plastic bag of max 1000ml (1 quart)
+the plastic resealable bag must not exceed 20 by 20 cm (7.9 by 7.9 in)
+maximum of 1 plastic bag per passenger
+liquids include gels and lotions (shampoo, tooth paste), lip sticks, moist paper tissue, contact lens solution
+Exceptions:
+prescribed medicine of any size, non-prescribed medicine-only items
+baby milk and other items for infants
+nutrition for diabetes diet
+Restrictions on dangerous objects:
+Firearms (including imitation firearms) and other projectile weapons (e.g. bows, crossbows)
+sharp objects, even small ones, including dart arrows and razor blades
+The recommendation allows for light knives and scissors with blades up to 6 cm (2.4 in) but some countries do not accept these either (e.g. nail care items)
+blunt objects, clubs and all larger sticks, including sports utilities (e.g. skateboard)
+inflammable objects, including ethanol, alcoholic beverage above 70%, some match sticks
+toxic chemicals, including pepper spray, liquid batteries, blood samples
+
+
+==== United States ====
+The United States Transportation Security Administration (TSA) has introduced a series of restrictions effective since 26 September 2006 under the name "3:1:1" for liquids.
+
+Restrictions on liquids:
+3.4 ounce or smaller of containers for liquids and gels (100 ml)
+1 quart-size clear plastic zip-top bag holding the liquid contents (approx. 950 ml)
+1 bag per traveler shown openly in the security bin
+the TSA guidelines explicitly accept the metricized portions of 100 ml / 1 liter as defined later in the European Union
+the list of exceptions for liquids (baby milk, diabetes diet) is identical to EU guidelines.
+The TSA has additional restrictions for security searches: for example, the baggage should not be locked (except with a special luggage locks that TSA staff can open), gifts should not be wrapped, and shoes may be required to be taken off during body search with the metal detector. Food items in the luggage may be mistaken for dangerous material triggering an intensive search.
+
+
+== See also ==
+Suitcase
+Checked baggage
+Baggage allowance
+
+
+== Notes ==
+
+
+== References ==

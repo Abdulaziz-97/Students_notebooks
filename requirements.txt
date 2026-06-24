@@ -1,0 +1,25 @@
+langchain>=1.2.0,<2.0
+langchain-core>=1.0,<2.0
+langgraph>=1.0,<2.0
+deepagents>=0.4.0
+langsmith>=0.3.0
+pydantic>=2.0
+python-dotenv>=1.0
+langchain-openai>=1.0,<2.0
+langchain-tavily>=0.1
+langchain-text-splitters>=1.0
+langchain-huggingface>=0.0.1
+langchain-community>=0.4.0,<0.5.0
+langchain-chroma>=0.2
+langchain-experimental>=0.3
+openai>=1.0
+torch>=2.6
+transformers>=4.40
+numpy>=2.0
+rank-bm25>=0.2
+nltk>=3.8
+adaptive-chunking @ git+https://github.com/ekimetrics/adaptive-chunking.git
+jupyter>=1.0
+ipykernel>=6.0
+nbconvert>=7.0
+rich>=13.0
